@@ -1,0 +1,37 @@
+
+.box {
+	height: 100px;
+	/* background: black; */
+	border: 1px solid black;
+	/* color: white; */
+	font-size: 36px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.orange {
+	background-color:#6f42c1;
+}
+.pink {
+	background-color:silver;
+}
+.lightorange {
+	background-color: white;
+}
+.white {
+	background-color: #f5cd79;
+}
+.turbo {
+	background-color: #f9ca24;
+}
+.lblue {
+	background-color: #55efc4;
+}
+
+.header,
+.body,
+.hero,
+.bar,
+.footer {
+	background-color:lightgreen;
+	margin-bottom: 10px;
+}
